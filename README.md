@@ -1,3 +1,125 @@
+<span style="color:green;font-weight:700;font-size:20px">
+   ik stel me voor
+</span>
+
+---
+### wie ben ik
+
+**ik ben Mick Jacobs**
+en ik ben 17 jaar.
+ik woon in Sprundel en doe de opleiding software development op het Curio in Breda.ik heb deze opleiding gekozen omdat ik altijd al geinterseert in computers ben geweest. 
+het leuke van mijn opleiding vindt ik de web development kant. ik vindt dit leuk omdat er veel creativiteit in zit waardoor je een project op veel verschillende manieren kan maken.
+ik wil graag meer Javascript leren omdat je met javascript je website veel interactiever kan maken. 
+
+---
+
+###Welke talen ken ik
+1. `HTML`
+2. `CSS`
+3. `PHP`
+4. `Python`
+5. `C# (basis)`
+6. `javascript (klein begin)`
+
+###kleine stukjes code van de talen die ik ken
+
+#####*HTML*
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+```
+#####*CSS*
+```
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+```
+
+#####*PHP*
+```
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo "My first PHP script!";
+?>
+
+</body>
+</html>
+```
+
+#####*Python*
+```
+print("Hello, World!")
+```
+
+#####*C#*
+```
+using System;
+
+namespace HelloWorld
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine("Hello World!");    
+    }
+  }
+}
+```
+
+#####*Javascript*
+```
+document.getElementById("demo").innerHTML = "Hello JavaScript";
+```
+
+---
+###Data
+
+| id  | Name  | Age |
+-----|-------|-----|
+| 2   | peter | 36  |
+| 6   | jan   | 24  |
+
+---
+###Takenlijst
+>- [ ] zet alle tekst in het bestand
+>- [x] maak een md bestand
+>- [ ] verander de kleuren van de titels
+---
+
+###links
+[website 1](linkurl)   ![ image website 1](g)
+
+[website 2](linkurl)   ![ image website 2](g)
+
+[website 3](linkurl)   ![ image website 3](g)
+
+
+
+
 # Test titel 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at elementum eros. Donec gravida nibh sit amet elit suscipit blandit. Vestibulum lobortis mi ligula, quis tincidunt dolor imperdiet eu. Phasellus mattis dui et sem bibendum mattis. Etiam viverra dictum eleifend. Nullam volutpat nulla orci, non tempus tortor euismod quis. Pellentesque fermentum tincidunt condimentum. Aenean eleifend scelerisque dolor vitae fermentum. Sed et ultrices leo. Proin eget dui eget nulla pulvinar malesuada.
